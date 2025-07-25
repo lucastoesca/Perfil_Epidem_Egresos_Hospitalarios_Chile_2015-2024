@@ -34,6 +34,7 @@ El análisis se centró en un subconjunto de datos filtrado por los grupos de di
 
 ### 5. Desarrollo de Dashboard Interactivo en Power BI
 Para complementar el análisis estático y permitir una exploración más amplia de los datos, se desarrolló un panel de control interactivo en **MS Power BI**. Se importó el conjunto de datos ya limpio y procesado para construir las visualizaciones clave del estudio, incluyendo la replicación de gráficos complejos como la pirámide poblacional a través de scripts de Python integrados. La principal funcionalidad del panel es su carácter dinámico, logrado mediante el uso de segmentaciones de datos (slicers) que permiten al usuario final filtrar todo el informe y observar los mismos análisis para cualquier capítulo, grupo o categoría de diagnóstico de interés, extendiendo así el alcance del estudio más allá de las patologías inicialmente analizadas.
+![Vista Panel Power BI](ezgif-54c09a05c58ea0.gif)
 
 ## Stack Tencológico:
 - 🐍 Python (Pandas, Numpy, Matplotlib, Seaborn, GeoPandas)
